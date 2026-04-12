@@ -505,7 +505,7 @@ function renderFooterContact() {
     { emoji: "📞", text: `<a href="tel:+91${CONFIG.phone}">${CONFIG.phoneDisplay}</a>` },
     { emoji: "💬", text: `<a href="${waLink()}" target="_blank" rel="noopener">WhatsApp for Bulk Orders</a>` },
     { emoji: "📍", text: `${CONFIG.address.line1}, ${CONFIG.address.line2}, ${CONFIG.address.city}` },
-    { emoji: "🛒", text: `<a href="${CONFIG.meeshoStore}" target="_blank" rel="noopener">FASHIONGUIDE53318 on Meesho</a>` },
+    { emoji: "🛒", text: `<a href="${CONFIG.meeshoStore}" target="_blank" rel="noopener">FASHION GUIDE on Meesho</a>` },
   ];
 
   items.forEach((item) => {
