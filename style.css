@@ -1083,8 +1083,8 @@ button { font-family: inherit; }
   gap: 0.5rem;
 }
 #intro{
-  font-size: 0.65rem;
-  font-weight: 400;
+  font-size: 1em;
+  font-weight: 500;
   color: rgb(173, 172, 172);
 }
 #linkIcon{
